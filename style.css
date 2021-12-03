@@ -1,0 +1,23 @@
+.img_container{
+    background: linear-gradient(#e66465, #9198e5);
+    padding: 2em;
+    border: black solid;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center space-around;
+    align-items: center;
+    
+    
+}
+
+img {
+    border: white solid;
+    height: 150px;
+    width: 150px;
+    margin: 0.5em;
+  
+   
+}
+
+
